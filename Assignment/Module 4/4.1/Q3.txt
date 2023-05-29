@@ -1,0 +1,18 @@
+Q : What is the difference between OOP and POP? 
+Ans: 
+
+      POP (Procedure Oriented Programme)                OOP (Object Oriented Programme)
+
+    - It is Top to Bottom Approach.                   - It is Bottom to Top Approach.
+
+    - Data move freely in programme.                  - Data does not move freely in programme.
+
+    - The length of program is more compare to        - The length of program is less compare to
+      OOP.                                              POP.
+
+    - There is no object.                             - Object can communicate with each other.
+
+    - Programmes divided into function.               - Programmes divided into projects.
+
+    - We can not secure data in POP.                  - We can secure data in OOP.
+

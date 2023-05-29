@@ -1,0 +1,16 @@
+Q : What is OOP? List OOP concepts.
+
+Ans: Object oriented programing is based on concept of object.
+     In object-oriented programming data structures or objects are defined, each with its own properties or attributes.
+     software is designed by using objects that interect with one another.
+
+     concepts Of Object oriented programing:
+     - Objects
+     - Classes
+     - Inheritance
+     - Data Abstraction
+     - Data Encapsulation
+     - Polymorphism
+     - Overloading
+     - Reusability
+
